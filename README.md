@@ -1,4 +1,4 @@
-# Hi there, I'm Akash K 👋
+# Hi there, I'm Akash Karthikeyan 👋
 
 A results-oriented B.Com Computer Applications student with a 7.80 CGPA, specializing in leveraging technical skills in web development and tech exploration.
 
