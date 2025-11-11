@@ -1,6 +1,6 @@
 # Hi there, I'm Akash Karthikeyan 👋
 
-A results-oriented B.Com Computer Applications student with a 7.80 CGPA, specializing in leveraging technical skills in web development and tech exploration.
+A highly motivated and adaptable B.Com Computer Applications student with a 7.80 CGPA, specializing in leveraging technical skills in web development and tech exploration.
 
 I'm a dedicated and adaptable team player with a passion for continuous learning and applying new technologies to solve real-world problems.
 
