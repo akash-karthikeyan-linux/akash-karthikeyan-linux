@@ -19,7 +19,7 @@ I'm a dedicated and adaptable team player with a passion for continuous learning
 Here are some of the technologies and tools I work with:
 
 * **Programming:** `Python`, `JavaScript`
-* **Web Development:** `HTML`, `CSS`, `JS`
+* **Web Development:** `HTML`, `CSS`, `JS`, `React`, `Bootstrap`
 * **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Docker`, `Ubuntu Server OS`
 
 ---
