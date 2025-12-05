@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 Here are a couple of projects I've worked on:
 
 * **Home Server:** Set up a local home server using **Ubuntu server**. This server allows users on the same WLAN to add and view files.
-    * *Technologies used: `Git`, `GitHub`, `Ubuntu Server OS`*
+    * *Technologies used: `Ubuntu Server OS`*
 * **AI Agent using n8n:** Used **n8n's** AI automation tool to get weather updates. This was hosted locally using an official **Docker** image.
     * *Technologies used: `Docker`, `n8n`*
 
